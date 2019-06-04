@@ -6,3 +6,4 @@
 - Bootstrap 4
 - Multiple pages
 - CKEditor for textarea fields
+- Dummy text for several fields (login, etc)
