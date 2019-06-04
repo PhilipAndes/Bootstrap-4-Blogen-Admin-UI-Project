@@ -4,3 +4,5 @@
 
 <b>In This Project:</b>
 - Bootstrap 4
+- Multiple pages
+- CKEditor for textarea fields
