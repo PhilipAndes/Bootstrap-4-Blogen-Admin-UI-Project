@@ -1,4 +1,4 @@
-# Blogen Admin UI
+# Blogen Admin UI Theme
 
 - Started Coding: December 2018.
 
